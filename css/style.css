@@ -18,6 +18,10 @@
     filter: grayscale(0);
 }
 
+.section-heading-text-warning{
+    color: #E76F51;
+
+}
 .user-3{
     width: 165px;
     height: 155px; 
@@ -30,7 +34,5 @@
 .fa-star.empty{
     color: #E77C40;
 }
-.section-heading-text-warning{
-    color: #E76F51;
 
-}
+
